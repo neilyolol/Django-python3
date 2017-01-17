@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e9ced5e-e66d-44aa-9c0e-fb8900523d06" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suprtlists/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functional_tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suprtlists/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suprtlists/suprtlists/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suprtlists/suprtlists/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suprtlists/suprtlists/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/suprtlists/suprtlists/wsgi.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/TODO.iml" afterPath="$PROJECT_DIR$/.idea/TODO.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functional_tests.py" afterPath="$PROJECT_DIR$/functional_tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,9 +25,11 @@
       <file leaf-file-name="functional_tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functional_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="162">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -389,9 +382,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functional_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="162">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
